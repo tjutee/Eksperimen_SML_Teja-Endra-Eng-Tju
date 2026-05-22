@@ -4,7 +4,7 @@ Repository ini berisi dataset, notebook eksperimen, dan skrip automatisasi prepr
 
 ## Struktur Repository
 
-- `.workflow/` - workflow definisi dan dokumentasi
+- `.github/workflows/` - workflow GitHub Actions untuk menjalankan preprocessing otomatis
 - `Customer-Segmentation_raw.csv` - dataset mentah
 - `requirements.txt` - daftar library Python yang diperlukan
 - `preprocessing/` - folder preprocessing
